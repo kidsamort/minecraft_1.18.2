@@ -1,0 +1,41 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1702071133046L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: 21, z: 17, time: 1702069470666L }
+			{ x: 23, z: 19, time: 1702069472327L }
+			{ x: 23, z: 20, time: 1702069467867L }
+			{ x: 21, z: 18, time: 1702069470982L }
+			{ x: 21, z: 19, time: 1702069471335L }
+			{ x: 23, z: 21, time: 1702069474888L }
+			{ x: 21, z: 20, time: 1702069467137L }
+			{ x: 23, z: 17, time: 1702069469995L }
+			{ x: 23, z: 18, time: 1702069472179L }
+			{ x: 21, z: 21, time: 1702069474089L }
+			{ x: 24, z: 20, time: 1702069468186L }
+			{ x: 22, z: 18, time: 1702069471988L }
+			{ x: 20, z: 17, time: 1702069465441L }
+			{ x: 22, z: 19, time: 1702069471525L }
+			{ x: 24, z: 21, time: 1702069475145L }
+			{ x: 20, z: 18, time: 1702069465765L }
+			{ x: 22, z: 20, time: 1702069467476L }
+			{ x: 20, z: 19, time: 1702069466251L }
+			{ x: 22, z: 21, time: 1702069474431L }
+			{ x: 24, z: 17, time: 1702069469210L }
+			{ x: 24, z: 18, time: 1702069468865L }
+			{ x: 24, z: 19, time: 1702069468534L }
+			{ x: 22, z: 17, time: 1702069469556L }
+			{ x: 20, z: 20, time: 1702069466708L }
+			{ x: 20, z: 21, time: 1702069473844L }
+		]
+	}
+	member_data: {
+		410cdab5-8d4f-37d9-a8a2-c9f83356c7f2: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+	}
+}

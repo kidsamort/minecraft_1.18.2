@@ -1,0 +1,25 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "AlonsaSamort"
+	last_seen: { dim: "minecraft:overworld", x: 360, y: 63, z: 298, time: 1701898693875L }
+	recording: 0
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: 357, y: 89, z: 317, time: 1701892543229L }
+		{ dim: "minecraft:overworld", x: -37953, y: 75, z: -2360, time: 1701893725624L }
+		{ dim: "minecraft:overworld", x: 894, y: 155, z: 1786, time: 1701893967911L }
+		{ dim: "minecraft:overworld", x: 361, y: 63, z: 305, time: 1701894862807L }
+		{ dim: "minecraft:overworld", x: -62755, y: 96, z: -75806, time: 1701895041908L }
+		{ dim: "minecraft:overworld", x: 399, y: -54, z: 256, time: 1701895636113L }
+		{ dim: "minecraft:overworld", x: 360, y: 63, z: 288, time: 1701898136411L }
+		{ dim: "minecraft:overworld", x: 19296, y: 99, z: -3110, time: 1701898325582L }
+		{ dim: "minecraft:overworld", x: 359, y: 63, z: 293, time: 1701898494481L }
+		{ dim: "minecraft:overworld", x: -25019, y: 68, z: 31691, time: 1701898682599L }
+	]
+	homes: {
+		dome: { dim: "minecraft:overworld", x: 360, y: 63, z: 298, time: 1701608238093L }
+		add: { dim: "minecraft:the_nether", x: 172, y: 67, z: -193, time: 1701611210399L }
+	}
+}

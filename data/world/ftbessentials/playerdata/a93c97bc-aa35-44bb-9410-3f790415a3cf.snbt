@@ -1,0 +1,24 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "MrWerewolf"
+	last_seen: { dim: "minecraft:overworld", x: 457, y: 56, z: 358, time: 1701971647922L }
+	recording: 0
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: 553, y: 101, z: -53, time: 1701720155423L }
+		{ dim: "minecraft:overworld", x: 450, y: 57, z: 350, time: 1701726909750L }
+		{ dim: "minecraft:overworld", x: 814, y: 68, z: 183, time: 1701729247143L }
+		{ dim: "minecraft:the_nether", x: -105, y: 93, z: -60, time: 1701802319578L }
+		{ dim: "minecraft:overworld", x: -1306, y: 64, z: 304, time: 1701884740002L }
+		{ dim: "minecraft:overworld", x: -343, y: 60, z: 374, time: 1701885049503L }
+		{ dim: "minecraft:overworld", x: -826, y: 80, z: 642, time: 1701887744368L }
+		{ dim: "minecraft:overworld", x: -1487, y: 63, z: 825, time: 1701891092608L }
+		{ dim: "minecraft:overworld", x: 441, y: 63, z: 371, time: 1701896424417L }
+		{ dim: "minecraft:overworld", x: 382, y: 27, z: 43, time: 1701900442690L }
+	]
+	homes: {
+		d: { dim: "minecraft:overworld", x: 438, y: 63, z: 355, time: 1701606482816L }
+	}
+}

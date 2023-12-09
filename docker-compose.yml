@@ -9,7 +9,7 @@ services:
    environment:
      EULA: "TRUE"
      TYPE: MOHIST
-     MEMORY: 8G
+     MEMORY: 5G
      VERSION: 1.18.2
      DEBUG: "true"
    volumes:
